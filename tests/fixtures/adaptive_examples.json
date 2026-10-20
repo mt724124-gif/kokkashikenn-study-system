@@ -1,0 +1,287 @@
+[
+  {
+    "id": "DEMO-BIO-A",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "concept_ids": [
+      "BIO-0001/phospholipid"
+    ],
+    "type": "single",
+    "prompt": "膜を構成するリン脂質の配向について、最も適切なのはどれか。1つ選べ。",
+    "options": [
+      "親水性の頭部は水相に、疎水性の鎖は二重層内部に向く",
+      "頭部と鎖はどちらも水相を避ける",
+      "頭部と鎖はどちらも水相へ向く",
+      "疎水性の鎖が水相へ、親水性の頭部が膜内部へ向く",
+      "すべてのリン脂質はタンパク質と共有結合で固定される"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "両親媒性により頭部は水に接し、疎水性鎖は膜内部へ向く",
+    "option_explanations": [
+      "両親媒性により頭部は水に接し、疎水性鎖は膜内部へ向く",
+      "親水性頭部は水に接する",
+      "疎水性鎖は膜内部へ向く",
+      "頭部と鎖の配向が逆",
+      "膜中の相互作用は主に非共有結合であり、全成分が共有結合で固定されるわけではない"
+    ],
+    "origin": "original_from_sources",
+    "mode": "弱点補強",
+    "estimated_difficulty": 2,
+    "selection_reason": "実ログ第1問は正答だがリン脂質が何かわからない。構成と配向を確認",
+    "sources": [
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 30-31",
+        "checked_at": "2026-10-20",
+        "status": "visual_checked",
+        "supports": "二重層・膜タンパク質・糖鎖・流動モザイク。31頁画像も確認"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "ChatGPT:本文と正答対応を確認。専門家校閲なし",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "test_only": true
+  },
+  {
+    "id": "DEMO-BIO-B",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "concept_ids": [
+      "BIO-0001/biomolecule_classes"
+    ],
+    "type": "single",
+    "prompt": "膜のイオンチャネルとセルロースの分類として、適切な組合せはどれか。1つ選べ。",
+    "options": [
+      "チャネルは多糖、セルロースはタンパク質",
+      "両者とも核酸",
+      "チャネルはタンパク質、セルロースは多糖",
+      "両者ともリン脂質",
+      "チャネルは核酸、セルロースはリン脂質"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "チャネルは膜タンパク質で、セルロースは植物に存在する多糖",
+    "option_explanations": [
+      "チャネルはタンパク質、セルロースは多糖で逆",
+      "核酸の分類ではない",
+      "チャネルは膜タンパク質で、セルロースは植物に存在する多糖",
+      "両者ともリン脂質の分類ではない",
+      "チャネルもセルロースもその分類ではない"
+    ],
+    "origin": "original_from_sources",
+    "mode": "弱点補強",
+    "estimated_difficulty": 1,
+    "selection_reason": "実ログ第4問のセルロース混同から、機能問題の前に成分分類を診断",
+    "sources": [
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 30-31",
+        "checked_at": "2026-10-20",
+        "status": "visual_checked",
+        "supports": "二重層・膜タンパク質・糖鎖・流動モザイク。31頁画像も確認"
+      },
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 99",
+        "checked_at": "2026-10-20",
+        "status": "text_checked",
+        "supports": "セルロースの多糖分類"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "ChatGPT:本文と正答対応を確認。専門家校閲なし",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "test_only": true
+  },
+  {
+    "id": "DEMO-BIO-C",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "concept_ids": [
+      "BIO-0001/glycan"
+    ],
+    "type": "single",
+    "prompt": "糖鎖修飾と細胞膜上の糖鎖について、最も適切なのはどれか。1つ選べ。",
+    "options": [
+      "糖鎖修飾は核内だけで起こり、膜の糖鎖は細胞質側だけに存在する",
+      "糖鎖修飾に小胞体・ゴルジ体は関与しない",
+      "細胞膜の糖鎖は脂質二重層の中央だけに存在する",
+      "小胞体・ゴルジ体で糖鎖修飾が行われ、細胞膜の糖鎖は細胞外側に存在する",
+      "膜の糖鎖は核酸からできている"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "翻訳後修飾の場所と膜の非対称性を組み合わせた記述",
+    "option_explanations": [
+      "修飾部位と膜の糖鎖側がともに誤り",
+      "小胞体とゴルジ体は糖鎖修飾に関与する",
+      "糖鎖は細胞外側に存在する",
+      "翻訳後修飾の場所と膜の非対称性を組み合わせた記述",
+      "糖鎖は糖から構成され核酸ではない"
+    ],
+    "origin": "original_from_sources",
+    "mode": "定着確認",
+    "estimated_difficulty": 3,
+    "selection_reason": "初期の糖鎖局在不明と解説後の理解申告を保持し、修飾と局在を統合して確認。実回答前は定着未確認",
+    "sources": [
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 30-31",
+        "checked_at": "2026-10-20",
+        "status": "visual_checked",
+        "supports": "二重層・膜タンパク質・糖鎖・流動モザイク。31頁画像も確認"
+      },
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 137",
+        "checked_at": "2026-10-20",
+        "status": "text_checked",
+        "supports": "小胞体・ゴルジ体での糖鎖修飾"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "ChatGPT:本文と正答対応を確認。専門家校閲なし",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "test_only": true
+  },
+  {
+    "id": "DEMO-BIO-D",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "concept_ids": [
+      "BIO-0001/bilayer/application"
+    ],
+    "type": "single",
+    "prompt": "脂質二重層の疎水性内部と物質の移動の関係について、最も適切なのはどれか。1つ選べ。",
+    "options": [
+      "水素イオンは小さいため、常に脂質二重層を自由に通過する",
+      "酸素分子は濃度勾配に従って単純拡散できる",
+      "グルコースはすべての細胞で輸送体なしに自由に通過する",
+      "イオン輸送に膜タンパク質は一切関与しない",
+      "単純拡散には必ずATP加水分解が必要である"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "酸素は担体を介さず濃度勾配に従い単純拡散する",
+    "option_explanations": [
+      "イオンは小さくても単純拡散で自由に通過できない",
+      "酸素は担体を介さず濃度勾配に従い単純拡散する",
+      "グルコース輸送には特異的輸送体が関与する",
+      "チャネルや輸送体はイオン移動に関与する",
+      "単純拡散にATP加水分解は不要"
+    ],
+    "origin": "original_from_sources",
+    "mode": "応用",
+    "estimated_difficulty": 4,
+    "selection_reason": "二重層の配向の正答と自由回答から仕組み理解の候補。膜透過性へ発展",
+    "sources": [
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 30-31",
+        "checked_at": "2026-10-20",
+        "status": "visual_checked",
+        "supports": "二重層・膜タンパク質・糖鎖・流動モザイク。31頁画像も確認"
+      },
+      {
+        "title": "青問改訂第14版 生物",
+        "file": "05-14-3-.pdf",
+        "locator": "PDF 20-21",
+        "checked_at": "2026-10-20",
+        "status": "text_checked",
+        "supports": "問6・解説：酸素の単純拡散とイオンの膜透過"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "ChatGPT:本文と正答対応を確認。専門家校閲なし",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "test_only": true
+  },
+  {
+    "id": "DEMO-BIO-E",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "concept_ids": [
+      "BIO-0001/mosaic"
+    ],
+    "type": "single",
+    "prompt": "流動モザイクモデルから説明しやすい現象はどれか。1つ選べ。",
+    "options": [
+      "膜成分は全て共有結合で固定され、動かない",
+      "細胞膜はセルロースのみで形成される",
+      "膜内でリン脂質が側方へ移動できる",
+      "細胞膜に脂質は存在しない",
+      "膜タンパク質は全て細胞外に遊離する"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "膜内の側方拡散は流動性を反映する",
+    "option_explanations": [
+      "固定モデルではなく、膜成分は運動できる",
+      "細胞膜の基本は脂質二重層",
+      "膜内の側方拡散は流動性を反映する",
+      "脂質二重層が基本となる",
+      "膜には埋め込まれるタンパク質がある"
+    ],
+    "origin": "original_from_sources",
+    "mode": "弱点補強",
+    "estimated_difficulty": 2,
+    "selection_reason": "元textは未回答。暫定代替は正答だが何か知らなかったとの発言。独立IDで機構を確認",
+    "sources": [
+      {
+        "title": "青本改訂第14版 生物",
+        "file": "14-14-3-.pdf",
+        "locator": "PDF 30-31",
+        "checked_at": "2026-10-20",
+        "status": "visual_checked",
+        "supports": "二重層・膜タンパク質・糖鎖・流動モザイク。31頁画像も確認"
+      },
+      {
+        "title": "青問改訂第14版 生物",
+        "file": "05-14-3-.pdf",
+        "locator": "PDF 18-19",
+        "checked_at": "2026-10-20",
+        "status": "text_checked",
+        "supports": "問3と解説：リン脂質の側方拡散"
+      },
+      {
+        "title": "厚労省 第104回薬剤師国家試験",
+        "url": "https://www.mhlw.go.jp/content/000491250.pdf",
+        "locator": "PDF 5頁・問96",
+        "checked_at": "2026-10-20",
+        "status": "text_checked",
+        "supports": "膜脂質の運動が実際の出題対象。独自問題であり原題ではない"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "ChatGPT:本文と正答対応を確認。専門家校閲なし",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "test_only": true
+  }
+]

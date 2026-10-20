@@ -1,0 +1,225 @@
++{
+  "schema_version": 2,
+  "policy": "adaptive_first",
+  "archive": "問題データ/questions.json",
+  "archive_policy": "全45問のID・版・本文を履歴参照用として保持。存在だけを採用理由にしない。",
+  "candidates": [
+    {
+      "id": "Q-PHY-0155-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHY-0155-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHY-0155-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHY-0155-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-CHE-0004-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-CHE-0004-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-CHE-0004-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-CHE-0004-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-BIO-0001-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-BIO-0001-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-BIO-0001-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-BIO-0001-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-HYG-0021-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-HYG-0021-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-HYG-0021-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-HYG-0021-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA1-0001-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA1-0001-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA1-0001-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA1-0001-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA2-0001-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA2-0001-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA2-0001-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHA2-0001-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHT-0002-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHT-0002-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHT-0002-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PHT-0002-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-LAW-0010-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-LAW-0010-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-LAW-0010-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-LAW-0010-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PRC-0002-1",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PRC-0002-2",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PRC-0002-3",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    },
+    {
+      "id": "Q-PRC-0002-4",
+      "version": 1,
+      "role": "supplemental",
+      "require_current_source_check": true
+    }
+  ],
+  "new_questions": "演習ログ/記録/ の adaptive_question イベント。学習結果は adaptive_attempt。"
+}
