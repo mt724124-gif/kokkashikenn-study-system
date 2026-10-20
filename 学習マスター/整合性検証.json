@@ -1,0 +1,21 @@
+{
+  "active": 1344,
+  "archive": 44,
+  "new": 75,
+  "source_items": 973,
+  "subject_counts": {
+    "PHY": 156,
+    "CHE": 110,
+    "BIO": 185,
+    "HYG": 135,
+    "PHA1": 145,
+    "PHA2": 189,
+    "PHT": 144,
+    "LAW": 114,
+    "PRC": 166
+  },
+  "review_required": 346,
+  "continued_candidates": 180,
+  "legacy_records_preserved": true,
+  "input_sha256": "1163eba118b022ded9d170264f86b65ff4be67f97a4458e1b0329060c1f2502f"
+}

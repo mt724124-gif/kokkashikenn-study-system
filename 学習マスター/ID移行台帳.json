@@ -1,0 +1,466 @@
+[
+  {
+    "proposal": "P12-01",
+    "action": "ADJUST",
+    "old_ids": [
+      "PHY-0064",
+      "PHY-0065"
+    ],
+    "new_ids": [
+      "PHY-0155",
+      "PHY-0156",
+      "PHY-0157",
+      "PHY-0158"
+    ],
+    "temporary_ids": [
+      "PHY-0064-A1",
+      "PHY-0064-A2",
+      "PHY-0064-A3",
+      "PHY-0064-A4"
+    ],
+    "source_items": [
+      "PHY/章2/2.1.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-03",
+    "action": "SPLIT",
+    "old_ids": [
+      "PHA2-0028"
+    ],
+    "new_ids": [
+      "PHA2-0179",
+      "PHA2-0180",
+      "PHA2-0181",
+      "PHA2-0182",
+      "PHA2-0183",
+      "PHA2-0184"
+    ],
+    "temporary_ids": [
+      "PHA2-0028-S1",
+      "PHA2-0028-S2",
+      "PHA2-0028-S3",
+      "PHA2-0028-S4",
+      "PHA2-0028-S5",
+      "PHA2-0028-S6"
+    ],
+    "source_items": [
+      "PHA2/章3/10.1.1"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-04",
+    "action": "SPLIT",
+    "old_ids": [
+      "PHA2-0084"
+    ],
+    "new_ids": [
+      "PHA2-0185",
+      "PHA2-0186",
+      "PHA2-0187",
+      "PHA2-0188",
+      "PHA2-0189",
+      "PHA2-0190"
+    ],
+    "temporary_ids": [
+      "PHA2-0084-S1",
+      "PHA2-0084-S2",
+      "PHA2-0084-S3",
+      "PHA2-0084-S4",
+      "PHA2-0084-S5",
+      "PHA2-0084-S6"
+    ],
+    "source_items": [
+      "PHA2/章3/15.1.3"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-05",
+    "action": "ADJUST",
+    "old_ids": [
+      "LAW-0096",
+      "LAW-0097"
+    ],
+    "new_ids": [
+      "LAW-0111",
+      "LAW-0112",
+      "LAW-0113",
+      "LAW-0114",
+      "LAW-0115",
+      "LAW-0116"
+    ],
+    "temporary_ids": [
+      "LAW-0096-A1",
+      "LAW-0096-A2",
+      "LAW-0096-A3",
+      "LAW-0096-A4",
+      "LAW-0096-A5",
+      "LAW-0096-A6"
+    ],
+    "source_items": [
+      "LAW/章2/3.1.6"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-06",
+    "action": "ADJUST",
+    "old_ids": [
+      "PHA2-0111",
+      "PHA2-0112",
+      "PHA2-0113",
+      "PHA2-0114",
+      "PHA2-0115",
+      "PHA2-0116"
+    ],
+    "new_ids": [
+      "PHA2-0191",
+      "PHA2-0192",
+      "PHA2-0193",
+      "PHA2-0194",
+      "PHA2-0195",
+      "PHA2-0196"
+    ],
+    "temporary_ids": [
+      "PHA2-0111-A1",
+      "PHA2-0111-A2",
+      "PHA2-0111-A3",
+      "PHA2-0111-A4",
+      "PHA2-0111-A5",
+      "PHA2-0111-A6"
+    ],
+    "source_items": [
+      "PHA2/章4/1.2.3"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-07",
+    "action": "ADJUST",
+    "old_ids": [
+      "PRC-0079",
+      "PRC-0080"
+    ],
+    "new_ids": [
+      "PRC-0151",
+      "PRC-0152",
+      "PRC-0153",
+      "PRC-0154"
+    ],
+    "temporary_ids": [
+      "PRC-0079-A1",
+      "PRC-0079-A2",
+      "PRC-0079-A3",
+      "PRC-0079-A4"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/6.2.4"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-08",
+    "action": "ADJUST",
+    "old_ids": [
+      "PRC-0106",
+      "PRC-0107",
+      "PRC-0108",
+      "PRC-0109"
+    ],
+    "new_ids": [
+      "PRC-0155",
+      "PRC-0156",
+      "PRC-0157",
+      "PRC-0158",
+      "PRC-0159",
+      "PRC-0160",
+      "PRC-0161"
+    ],
+    "temporary_ids": [
+      "PRC-0106-A1",
+      "PRC-0106-A2",
+      "PRC-0106-A3",
+      "PRC-0106-A4",
+      "PRC-0106-A5",
+      "PRC-0106-A6",
+      "PRC-0106-A7"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/7.1.7"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-09",
+    "action": "ADJUST",
+    "old_ids": [
+      "PRC-0122",
+      "PRC-0123"
+    ],
+    "new_ids": [
+      "PRC-0162",
+      "PRC-0163",
+      "PRC-0164",
+      "PRC-0165",
+      "PRC-0166"
+    ],
+    "temporary_ids": [
+      "PRC-0122-A1",
+      "PRC-0122-A2",
+      "PRC-0122-A3",
+      "PRC-0122-A4",
+      "PRC-0122-A5"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/7.3.1"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-10",
+    "action": "ADJUST",
+    "old_ids": [
+      "PHA1-0131",
+      "PHA1-0132",
+      "PHA1-0133",
+      "PHA1-0134"
+    ],
+    "new_ids": [
+      "PHA1-0146",
+      "PHA1-0147",
+      "PHA1-0148",
+      "PHA1-0149"
+    ],
+    "temporary_ids": [
+      "PHA1-0131-A1",
+      "PHA1-0131-A2",
+      "PHA1-0131-A3",
+      "PHA1-0131-A4"
+    ],
+    "source_items": [
+      "PHA1/章3/7.1.10"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-11",
+    "action": "ADJUST",
+    "old_ids": [
+      "PHT-0119",
+      "PHT-0120",
+      "PHT-0121",
+      "PHT-0122",
+      "PHT-0123",
+      "PHT-0124"
+    ],
+    "new_ids": [
+      "PHT-0146",
+      "PHT-0147",
+      "PHT-0148",
+      "PHT-0149",
+      "PHT-0150"
+    ],
+    "temporary_ids": [
+      "PHT-0119-A1",
+      "PHT-0119-A2",
+      "PHT-0119-A3",
+      "PHT-0119-A4",
+      "PHT-0119-A5"
+    ],
+    "source_items": [
+      "PHT/章2/2.2.5"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-12",
+    "action": "ADJUST",
+    "old_ids": [
+      "PHA2-0154",
+      "PHA2-0155"
+    ],
+    "new_ids": [
+      "PHA2-0197",
+      "PHA2-0198",
+      "PHA2-0199"
+    ],
+    "temporary_ids": [
+      "PHA2-0154-A1",
+      "PHA2-0154-A2",
+      "PHA2-0154-A3"
+    ],
+    "source_items": [
+      "PHA2/章5/1.5.4"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-13",
+    "action": "SPLIT",
+    "old_ids": [
+      "PHY-0036"
+    ],
+    "new_ids": [
+      "PHY-0159",
+      "PHY-0160",
+      "PHY-0161"
+    ],
+    "temporary_ids": [
+      "PHY-0036-S1",
+      "PHY-0036-S2",
+      "PHY-0036-S3"
+    ],
+    "source_items": [
+      "PHY/章1/2.4.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-14",
+    "action": "SPLIT",
+    "old_ids": [
+      "PHY-0091"
+    ],
+    "new_ids": [
+      "PHY-0162",
+      "PHY-0163"
+    ],
+    "temporary_ids": [
+      "PHY-0091-S1",
+      "PHY-0091-S2"
+    ],
+    "source_items": [
+      "PHY/章2/4.1.3"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-15",
+    "action": "MERGE",
+    "old_ids": [
+      "PHY-0094",
+      "PHY-0095",
+      "PHY-0096"
+    ],
+    "new_ids": [
+      "PHY-0164"
+    ],
+    "temporary_ids": [
+      "PHY-0094-M1"
+    ],
+    "source_items": [
+      "PHY/章2/4.2.1",
+      "PHY/章2/4.2.2",
+      "PHY/章2/4.2.3"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-16",
+    "action": "MERGE",
+    "old_ids": [
+      "PHY-0146",
+      "PHY-0147"
+    ],
+    "new_ids": [
+      "PHY-0165"
+    ],
+    "temporary_ids": [
+      "PHY-0146-M1"
+    ],
+    "source_items": [
+      "PHY/章4/1.1.1",
+      "PHY/章4/1.1.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-17",
+    "action": "MERGE",
+    "old_ids": [
+      "CHE-0056",
+      "CHE-0057"
+    ],
+    "new_ids": [
+      "CHE-0112"
+    ],
+    "temporary_ids": [
+      "CHE-0056-M1"
+    ],
+    "source_items": [
+      "CHE/章1/5.1.1",
+      "CHE/章1/5.1.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-18",
+    "action": "SPLIT",
+    "old_ids": [
+      "PRC-0103"
+    ],
+    "new_ids": [
+      "PRC-0167",
+      "PRC-0168",
+      "PRC-0169",
+      "PRC-0170"
+    ],
+    "temporary_ids": [
+      "PRC-0103-S1",
+      "PRC-0103-S2",
+      "PRC-0103-S3",
+      "PRC-0103-S4"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/7.1.7"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-19",
+    "action": "SPLIT",
+    "old_ids": [
+      "PRC-0139"
+    ],
+    "new_ids": [
+      "PRC-0171",
+      "PRC-0172",
+      "PRC-0173",
+      "PRC-0174"
+    ],
+    "temporary_ids": [
+      "PRC-0139-S1",
+      "PRC-0139-S2",
+      "PRC-0139-S3",
+      "PRC-0139-S4"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/9.2.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  },
+  {
+    "proposal": "P12-20",
+    "action": "SPLIT",
+    "old_ids": [
+      "PRC-0063"
+    ],
+    "new_ids": [
+      "PRC-0175",
+      "PRC-0176",
+      "PRC-0177"
+    ],
+    "temporary_ids": [
+      "PRC-0063-S1",
+      "PRC-0063-S2",
+      "PRC-0063-S3"
+    ],
+    "source_items": [
+      "PRC/章unnumbered/5.1.2"
+    ],
+    "history_policy": "旧記録保存。子への理解度・回数の複製なし"
+  }
+]

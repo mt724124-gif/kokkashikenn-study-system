@@ -1,0 +1,21 @@
+test_all_void_excludes_learning (test_system.SystemTests.test_all_void_excludes_learning) ... ok
+test_cli_learning_flow (test_system.SystemTests.test_cli_learning_flow) ... ok
+test_corrupt_log_fails_without_resetting (test_system.SystemTests.test_corrupt_log_fails_without_resetting) ... ok
+test_http_end_to_end_and_origin_rejection (test_system.SystemTests.test_http_end_to_end_and_origin_rejection) ... ok
+test_legacy_history_readable_not_duplicated (test_system.SystemTests.test_legacy_history_readable_not_duplicated) ... ok
+test_master_index_drift_detected (test_system.SystemTests.test_master_index_drift_detected) ... ok
+test_master_integrity_973_and_all_ids (test_system.SystemTests.test_master_integrity_973_and_all_ids) ... ok
+test_mastery_requires_spacing_and_full_coverage (test_system.SystemTests.test_mastery_requires_spacing_and_full_coverage) ... ok
+test_nine_subjects_full_cycle_reload (test_system.SystemTests.test_nine_subjects_full_cycle_reload) ... ok
+test_partial_review_and_reassessment_is_append_only (test_system.SystemTests.test_partial_review_and_reassessment_is_append_only) ... ok
+test_question_validation_and_draft_exclusion (test_system.SystemTests.test_question_validation_and_draft_exclusion) ... ok
+test_report_before_submit_can_skip_void_answer (test_system.SystemTests.test_report_before_submit_can_skip_void_answer) ... ok
+test_report_invalidates_past_future_and_preserves_bytes (test_system.SystemTests.test_report_invalidates_past_future_and_preserves_bytes) ... ok
+test_review_low_partial_pending_and_stable (test_system.SystemTests.test_review_low_partial_pending_and_stable) ... ok
+test_second_process_store_lock (test_system.SystemTests.test_second_process_store_lock) ... ok
+test_submit_idempotency_and_conflicting_answers (test_system.SystemTests.test_submit_idempotency_and_conflicting_answers) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.613s
+
+OK

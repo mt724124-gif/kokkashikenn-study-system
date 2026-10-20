@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "Q-PHY-0155-1",
+    "version": 1,
+    "unit_id": "PHY-0155",
+    "type": "single",
+    "prompt": "Brønsted–Lowryの定義で酸に当たるのはどれか。",
+    "options": [
+      "電子対を与える物質",
+      "電子を必ず1個受け取る物質",
+      "プロトンを受け取る物質",
+      "プロトンを与える物質"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "酸はプロトン供与体、塩基はプロトン受容体である。",
+    "topic": "Brønsted–Lowryの定義",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "01-14-1-.pdf",
+        "pdf_pages": "181",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHY-0155-2",
+    "version": 1,
+    "unit_id": "PHY-0155",
+    "type": "single",
+    "prompt": "Lewis酸の定義はどれか。",
+    "options": [
+      "電子対供与体",
+      "電子対受容体",
+      "水溶液中でのみ定義される物質",
+      "水酸化物イオン供与体に限定"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Lewis酸は電子対を受け取り、Lewis塩基は電子対を与える。",
+    "topic": "Lewisの定義",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "01-14-1-.pdf",
+        "pdf_pages": "181",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHY-0155-3",
+    "version": 1,
+    "unit_id": "PHY-0155",
+    "type": "single",
+    "prompt": "強電解質の説明として適切なのはどれか。",
+    "options": [
+      "一切電離しない",
+      "水中でほぼ完全に電離する",
+      "必ず有機化合物である",
+      "必ず酸性を示す"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "強電解質は水溶液中でほぼ完全にイオンに解離する。酸性かどうかとは別の区別である。",
+    "topic": "電解質の分類",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "01-14-1-.pdf",
+        "pdf_pages": "181",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHY-0155-4",
+    "version": 1,
+    "unit_id": "PHY-0155",
+    "type": "single",
+    "prompt": "アンモニアがプロトンを受け取りNH4+になるとき、アンモニアの役割はどれか。",
+    "options": [
+      "Brønsted–Lowry酸",
+      "必ずArrhenius酸",
+      "Brønsted–Lowry塩基",
+      "酸でも塩基でもない"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "プロトンを受け取るのでBrønsted–Lowry塩基である。",
+    "topic": "定義の適用",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "01-14-1-.pdf",
+        "pdf_pages": "181",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHY-0155-5",
+    "version": 1,
+    "unit_id": "PHY-0155",
+    "type": "text",
+    "prompt": "Brønsted–Lowry塩基とLewis塩基を、それぞれ「何を受け取る／与えるか」で説明してください。",
+    "options": [],
+    "answer": "前者はプロトンを受け取り、後者は電子対を与える。",
+    "explanation": "前者はプロトンを受け取り、後者は電子対を与える。",
+    "topic": "酸塩基定義の比較",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "01-14-1-.pdf",
+        "pdf_pages": "181",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "プロトン受容体と説明",
+      "電子対供与体と説明"
+    ]
+  },
+  {
+    "id": "Q-CHE-0004-1",
+    "version": 1,
+    "unit_id": "CHE-0004",
+    "type": "single",
+    "prompt": "電気的に中性の原子で等しい数の組合せはどれか。",
+    "options": [
+      "陽子と中性子",
+      "陽子と電子",
+      "中性子と電子",
+      "電子殻と電子"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "正電荷を持つ陽子と負電荷を持つ電子の数が等しい。",
+    "topic": "原子の構成",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "02-14-2-.pdf",
+        "pdf_pages": "46-50",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-CHE-0004-2",
+    "version": 1,
+    "unit_id": "CHE-0004",
+    "type": "single",
+    "prompt": "一つの原子軌道に収容できる電子数の最大値はどれか。",
+    "options": [
+      "8",
+      "2",
+      "1",
+      "6"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "一つの原子軌道には逆向きのスピンを持つ2電子まで入る。",
+    "topic": "Pauliの排他原理",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "02-14-2-.pdf",
+        "pdf_pages": "46-50",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-CHE-0004-3",
+    "version": 1,
+    "unit_id": "CHE-0004",
+    "type": "single",
+    "prompt": "一つのp副殻に属する軌道の数はどれか。",
+    "options": [
+      "1",
+      "5",
+      "2",
+      "3"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "p副殻には3軌道があり、電子は最大6個収容される。",
+    "topic": "軌道の種類",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "02-14-2-.pdf",
+        "pdf_pages": "46-50",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-CHE-0004-4",
+    "version": 1,
+    "unit_id": "CHE-0004",
+    "type": "single",
+    "prompt": "基底状態で縮退した複数の軌道に電子を入れるときのHund則に沿う説明はどれか。",
+    "options": [
+      "必ず高いエネルギーの副殻から入れる",
+      "全電子が同じ軌道に入る",
+      "まず同じ軌道で対にする",
+      "空いた軌道を一つずつ占有してから対を作る"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "同じエネルギーの軌道には、電子は対を作る前に空いた軌道へ入る。",
+    "topic": "Hund則",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "02-14-2-.pdf",
+        "pdf_pages": "46-50",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-CHE-0004-5",
+    "version": 1,
+    "unit_id": "CHE-0004",
+    "type": "text",
+    "prompt": "電子の収容に関する構成原理とPauliの排他原理を説明してください。",
+    "options": [],
+    "answer": "空いている低エネルギーの軌道から収容され、一つの軌道に入る2電子のスピンは反対向きである。",
+    "explanation": "空いている低エネルギーの軌道から収容され、一つの軌道に入る2電子のスピンは反対向きである。",
+    "topic": "電子配置の説明",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "02-14-2-.pdf",
+        "pdf_pages": "46-50",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "低エネルギーの軌道から入る",
+      "一軌道最大2電子・逆向きスピン"
+    ]
+  },
+  {
+    "id": "Q-BIO-0001-1",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "type": "single",
+    "prompt": "細胞膜の基本構造はどれか。",
+    "options": [
+      "リボソームの集合",
+      "DNA二重らせん",
+      "リン脂質二重層",
+      "セルロース単層"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "リン脂質二重層を基本とし、膜タンパク質などが存在する。",
+    "topic": "膜の基本構造",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "14-14-3-.pdf",
+        "pdf_pages": "30-31",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-BIO-0001-2",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "type": "single",
+    "prompt": "リン脂質二重層の疎水性部分は主にどこを向くか。",
+    "options": [
+      "常に細胞外だけ",
+      "二重層の内部",
+      "核内だけ",
+      "水に接する表面"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "疎水性の脂肪酸鎖は二重層内部に向かい、親水性頭部は水相に向く。",
+    "topic": "両親媒性",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "14-14-3-.pdf",
+        "pdf_pages": "30-31",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-BIO-0001-3",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "type": "single",
+    "prompt": "細胞膜上で糖鎖が主に存在する側はどれか。",
+    "options": [
+      "核膜の内側だけ",
+      "細胞質側だけ",
+      "脂質二重層中央だけ",
+      "細胞外側"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "膜上の糖鎖は細胞外側に存在し、認識やマーカーなどに関わる。",
+    "topic": "膜の非対称性",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "14-14-3-.pdf",
+        "pdf_pages": "30-31",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-BIO-0001-4",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "type": "multi",
+    "prompt": "膜タンパク質の機能として適切なものを2つ選べ。",
+    "options": [
+      "イオンの輸送",
+      "遺伝情報の全保存を専ら担う",
+      "細胞壁のセルロースを専ら構成する",
+      "すべて共有結合で膜を固定する",
+      "シグナルの受容"
+    ],
+    "answer": [
+      0,
+      4
+    ],
+    "explanation": "チャネル・輸送体や受容体は代表的な膜タンパク質である。",
+    "topic": "膜タンパク質の機能",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "14-14-3-.pdf",
+        "pdf_pages": "30-31",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-BIO-0001-5",
+    "version": 1,
+    "unit_id": "BIO-0001",
+    "type": "text",
+    "prompt": "流動モザイクモデルを「脂質二重層」と「膜タンパク質」を用いて説明してください。",
+    "options": [],
+    "answer": "脂質二重層に膜タンパク質がモザイク状に存在し、膜内の成分は側方へ移動できる。",
+    "explanation": "脂質二重層に膜タンパク質がモザイク状に存在し、膜内の成分は側方へ移動できる。",
+    "topic": "流動モザイクモデル",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "14-14-3-.pdf",
+        "pdf_pages": "30-31",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "脂質二重層とタンパク質の配置",
+      "側方移動・流動性"
+    ]
+  },
+  {
+    "id": "Q-HYG-0021-1",
+    "version": 1,
+    "unit_id": "HYG-0021",
+    "type": "single",
+    "prompt": "感度を表す式はどれか。",
+    "options": [
+      "真陰性÷検査陽性の人数",
+      "真陰性÷疾患ありの人数",
+      "真陽性÷全対象者数",
+      "真陽性÷疾患ありの人数"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "感度は疾患のある人のうち陽性と正しく判定される割合である。",
+    "topic": "感度の定義",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "15-14-4-.pdf",
+        "pdf_pages": "87-89",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-HYG-0021-2",
+    "version": 1,
+    "unit_id": "HYG-0021",
+    "type": "single",
+    "prompt": "特異度を表す式はどれか。",
+    "options": [
+      "真陰性÷疾患なしの人数",
+      "偽陰性÷疾患あり",
+      "真陽性÷検査陽性",
+      "偽陽性÷全対象者"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "特異度は疾患のない人のうち陰性と正しく判定される割合である。",
+    "topic": "特異度の定義",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "15-14-4-.pdf",
+        "pdf_pages": "87-89",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-HYG-0021-3",
+    "version": 1,
+    "unit_id": "HYG-0021",
+    "type": "single",
+    "prompt": "疾患あり100人のうち80人が陽性だった。感度はどれか。",
+    "options": [
+      "50%",
+      "20%",
+      "80%",
+      "100%"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "80÷100＝0.80で、感度80%である。",
+    "topic": "感度の計算",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "15-14-4-.pdf",
+        "pdf_pages": "87-89",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-HYG-0021-4",
+    "version": 1,
+    "unit_id": "HYG-0021",
+    "type": "single",
+    "prompt": "感度・特異度を固定したとき、有病率が低下すると一般に低下するのはどれか。",
+    "options": [
+      "疾患なしの人の割合",
+      "陽性反応的中率",
+      "定義上の感度",
+      "定義上の特異度"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "有病率が低い集団では陽性の中に占める偽陽性の比率が増え、陽性反応的中率が下がる。",
+    "topic": "有病率と的中率",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "15-14-4-.pdf",
+        "pdf_pages": "87-89",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-HYG-0021-5",
+    "version": 1,
+    "unit_id": "HYG-0021",
+    "type": "text",
+    "prompt": "偽陰性と偽陽性を区別し、感度・特異度の分母を説明してください。",
+    "options": [],
+    "answer": "偽陰性は疾患ありなのに検査陰性、偽陽性は疾患なしなのに検査陽性。感度の分母は疾患あり、特異度は疾患なしの人数。",
+    "explanation": "偽陰性は疾患ありなのに検査陰性、偽陽性は疾患なしなのに検査陽性。感度の分母は疾患あり、特異度は疾患なしの人数。",
+    "topic": "検査指標の説明",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "15-14-4-.pdf",
+        "pdf_pages": "87-89",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "偽陰性と偽陽性の区別",
+      "感度と特異度の分母"
+    ]
+  },
+  {
+    "id": "Q-PHA1-0001-1",
+    "version": 1,
+    "unit_id": "PHA1-0001",
+    "type": "single",
+    "prompt": "動物集団でED50が表すのはどれか。",
+    "options": [
+      "50%に所定の薬効を示す用量",
+      "最大反応を必ず生じる用量",
+      "50%が死亡する用量",
+      "受容体の50%の数"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "集団で所定の反応を示す個体が50%となる用量をED50という。段階的反応のEC50と混同しない。",
+    "topic": "ED50",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "13-14-5-.pdf",
+        "pdf_pages": "38-42",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA1-0001-2",
+    "version": 1,
+    "unit_id": "PHA1-0001",
+    "type": "single",
+    "prompt": "LD50が表すのはどれか。",
+    "options": [
+      "50%致死量",
+      "50%の受容体濃度",
+      "半減期",
+      "50%有効量"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "LD50は対象集団の50%が死亡する用量である。",
+    "topic": "LD50",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "13-14-5-.pdf",
+        "pdf_pages": "38-42",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA1-0001-3",
+    "version": 1,
+    "unit_id": "PHA1-0001",
+    "type": "single",
+    "prompt": "ED50＝10 mg/kg、LD50＝200 mg/kgとする。LD50/ED50はどれか。",
+    "options": [
+      "2000",
+      "0.05",
+      "10",
+      "20"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "200÷10＝20である。",
+    "topic": "治療指数の計算",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "13-14-5-.pdf",
+        "pdf_pages": "38-42",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA1-0001-4",
+    "version": 1,
+    "unit_id": "PHA1-0001",
+    "type": "single",
+    "prompt": "可逆的な競合的拮抗薬の添加で、作動薬の濃度反応曲線は通常どう変化するか。",
+    "options": [
+      "低濃度側へ平行移動",
+      "最大反応が必ず0になる",
+      "変化しない",
+      "最大反応を保って高濃度側へ移動"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "作動薬濃度を増やすと拮抗を乗り越えられ、最大反応を保って右へ移動する。",
+    "topic": "競合的拮抗",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "13-14-5-.pdf",
+        "pdf_pages": "38-42",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA1-0001-5",
+    "version": 1,
+    "unit_id": "PHA1-0001",
+    "type": "text",
+    "prompt": "効力と最大反応の大きさの違いを、濃度反応曲線を用いて説明してください。",
+    "options": [],
+    "answer": "効力は同じ効果を生じるのに必要な濃度などで比較し、最大反応の大きさは曲線の到達する上限で比較する。",
+    "explanation": "効力は同じ効果を生じるのに必要な濃度などで比較し、最大反応の大きさは曲線の到達する上限で比較する。",
+    "topic": "効力と最大反応",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "13-14-5-.pdf",
+        "pdf_pages": "38-42",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "必要濃度による効力の比較",
+      "最大反応・上限との区別"
+    ]
+  },
+  {
+    "id": "Q-PHA2-0001-1",
+    "version": 1,
+    "unit_id": "PHA2-0001",
+    "type": "single",
+    "prompt": "炎症の代表的な局所徴候に含まれるのはどれか。",
+    "options": [
+      "瞳孔の固定",
+      "低身長",
+      "聴力の必然的消失",
+      "発赤"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "発赤・熱感・腫脹・疼痛などが代表的な局所徴候である。",
+    "topic": "炎症徴候",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "17-14-6-.pdf",
+        "pdf_pages": "38-45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA2-0001-2",
+    "version": 1,
+    "unit_id": "PHA2-0001",
+    "type": "single",
+    "prompt": "炎症で発赤・熱感を生じる主な変化はどれか。",
+    "options": [
+      "赤血球産生の急停止",
+      "局所血管の拡張と血流増加",
+      "局所の完全な無血流",
+      "体液量の必然的なゼロ化"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "血管拡張による血流量増加が局所の発赤・熱感に関わる。",
+    "topic": "血管反応",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "17-14-6-.pdf",
+        "pdf_pages": "38-45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA2-0001-3",
+    "version": 1,
+    "unit_id": "PHA2-0001",
+    "type": "single",
+    "prompt": "血管透過性の亢進で生じやすいのはどれか。",
+    "options": [
+      "血漿成分の血管外への漏出",
+      "血管壁の絶対的不透過化",
+      "細胞外液の完全消失",
+      "すべての白血球の消失"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "透過性亢進によって血漿成分が血管外へ移動し、浮腫・腫脹などにつながる。",
+    "topic": "透過性と腫脹",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "17-14-6-.pdf",
+        "pdf_pages": "38-45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA2-0001-4",
+    "version": 1,
+    "unit_id": "PHA2-0001",
+    "type": "single",
+    "prompt": "炎症反応について適切なのはどれか。",
+    "options": [
+      "傷害に対する生体防御反応である",
+      "一切の血管反応を伴わない",
+      "常に細菌感染のみで起こる",
+      "白血球動員と無関係である"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "炎症は傷害に対する防御反応で、感染以外の原因でも起こる。",
+    "topic": "炎症の意味",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "17-14-6-.pdf",
+        "pdf_pages": "38-45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHA2-0001-5",
+    "version": 1,
+    "unit_id": "PHA2-0001",
+    "type": "text",
+    "prompt": "炎症時の発赤と腫脹を、それぞれ血管の変化と結びつけて説明してください。",
+    "options": [],
+    "answer": "発赤は主に血管拡張と血流量増加、腫脹は血管透過性亢進による血管外への液体成分の移動などに関連する。",
+    "explanation": "発赤は主に血管拡張と血流量増加、腫脹は血管透過性亢進による血管外への液体成分の移動などに関連する。",
+    "topic": "炎症の因果関係",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "17-14-6-.pdf",
+        "pdf_pages": "38-45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "発赤と血流増加",
+      "腫脹と透過性亢進"
+    ]
+  },
+  {
+    "id": "Q-PHT-0002-1",
+    "version": 1,
+    "unit_id": "PHT-0002",
+    "type": "single",
+    "prompt": "単純拡散の駆動力はどれか。",
+    "options": [
+      "ATP加水分解のみ",
+      "濃度勾配（電気化学ポテンシャル差）",
+      "担体の不可逆的分解",
+      "細胞分裂"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "単純拡散は濃度勾配に従う。",
+    "topic": "単純拡散の駆動力",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "08-14-7-.pdf",
+        "pdf_pages": "23-26",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHT-0002-2",
+    "version": 1,
+    "unit_id": "PHT-0002",
+    "type": "single",
+    "prompt": "単純拡散について適切なのはどれか。",
+    "options": [
+      "担体とATPを必ず必要とする",
+      "通常Michaelis–Menten式に従う",
+      "担体を介さずATP加水分解を直接利用しない",
+      "低濃度から高濃度へのみ進む"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "単純拡散は担体非依存でFickの法則に従い、ATP加水分解を直接利用しない。",
+    "topic": "輸送機構の比較",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "08-14-7-.pdf",
+        "pdf_pages": "23-26",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHT-0002-3",
+    "version": 1,
+    "unit_id": "PHT-0002",
+    "type": "single",
+    "prompt": "他条件一定で膜の表面積が2倍になったとき、Fickの法則による透過速度はどうなるか。",
+    "options": [
+      "1/2倍",
+      "2倍",
+      "4倍",
+      "不変"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "透過速度は膜表面積に比例する。",
+    "topic": "膜表面積",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "08-14-7-.pdf",
+        "pdf_pages": "23-26",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHT-0002-4",
+    "version": 1,
+    "unit_id": "PHT-0002",
+    "type": "single",
+    "prompt": "他条件一定で膜の厚さが2倍になったとき、透過速度はどうなるか。",
+    "options": [
+      "不変",
+      "4倍",
+      "2倍",
+      "1/2倍"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "透過速度は膜の厚さに反比例する。",
+    "topic": "膜厚",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "08-14-7-.pdf",
+        "pdf_pages": "23-26",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PHT-0002-5",
+    "version": 1,
+    "unit_id": "PHT-0002",
+    "type": "text",
+    "prompt": "単純拡散と能動輸送の違いを、濃度勾配・担体・エネルギーで説明してください。",
+    "options": [],
+    "answer": "単純拡散は濃度勾配に従い担体を介さず、ATP加水分解を直接利用しない。能動輸送は担体を介しエネルギーを利用して濃度勾配に逆らえる。",
+    "explanation": "単純拡散は濃度勾配に従い担体を介さず、ATP加水分解を直接利用しない。能動輸送は担体を介しエネルギーを利用して濃度勾配に逆らえる。",
+    "topic": "輸送機構の説明",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "08-14-7-.pdf",
+        "pdf_pages": "23-26",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "単純拡散の勾配・担体・ATP",
+      "能動輸送の担体・エネルギー・逆勾配"
+    ]
+  },
+  {
+    "id": "Q-LAW-0010-1",
+    "version": 1,
+    "unit_id": "LAW-0010",
+    "type": "single",
+    "prompt": "十分な説明の後に患者が自分で治療を選ぶ意思を尊重するのはどの原則か。",
+    "options": [
+      "自律尊重",
+      "無危害のみ",
+      "正義のみ",
+      "効率最大化"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "自分で意思決定できる患者の選択を尊重するのが自律尊重の原則である。",
+    "topic": "自律尊重",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "07-14-8-.pdf",
+        "pdf_pages": "45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-LAW-0010-2",
+    "version": 1,
+    "unit_id": "LAW-0010",
+    "type": "single",
+    "prompt": "患者に利益をもたらす行為を行う原則はどれか。",
+    "options": [
+      "守秘の免除",
+      "正義のみ",
+      "善行",
+      "利益相反"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "善行は患者に利益をもたらす行為をなすことである。",
+    "topic": "善行",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "07-14-8-.pdf",
+        "pdf_pages": "45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-LAW-0010-3",
+    "version": 1,
+    "unit_id": "LAW-0010",
+    "type": "single",
+    "prompt": "患者に危害を及ぼさないという原則はどれか。",
+    "options": [
+      "研究の優先",
+      "均等な販売",
+      "無危害",
+      "独断による決定"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "無危害の原則は患者への危害を避けることに関わる。",
+    "topic": "無危害",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "07-14-8-.pdf",
+        "pdf_pages": "45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-LAW-0010-4",
+    "version": 1,
+    "unit_id": "LAW-0010",
+    "type": "single",
+    "prompt": "医療資源や負担を公平に配分することと最も関係する原則はどれか。",
+    "options": [
+      "正義",
+      "自律の否定",
+      "効力",
+      "反応性"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "正義の原則は公平な扱いと資源・負担の適正な配分に関わる。",
+    "topic": "正義",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "07-14-8-.pdf",
+        "pdf_pages": "45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-LAW-0010-5",
+    "version": 1,
+    "unit_id": "LAW-0010",
+    "type": "text",
+    "prompt": "善行と無危害を区別し、両方を考える必要がある理由を説明してください。",
+    "options": [],
+    "answer": "善行は利益をもたらすこと、無危害は危害を避けること。利益の見込みだけでなく害の可能性も考慮して判断する必要がある。",
+    "explanation": "善行は利益をもたらすこと、無危害は危害を避けること。利益の見込みだけでなく害の可能性も考慮して判断する必要がある。",
+    "topic": "倫理原則の比較",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "07-14-8-.pdf",
+        "pdf_pages": "45",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "利益と危害回避の区別",
+      "利益と害をともに検討"
+    ]
+  },
+  {
+    "id": "Q-PRC-0002-1",
+    "version": 1,
+    "unit_id": "PRC-0002",
+    "type": "single",
+    "prompt": "ファーマシューティカルケアの中心に据えるべきものはどれか。",
+    "options": [
+      "書類の厚さ",
+      "患者の利益",
+      "薬剤師の作業量のみ",
+      "販売数量のみ"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "薬剤師の行動を患者の利益・治療成果へ向ける考え方である。",
+    "topic": "患者中心",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "12-14-9-.pdf",
+        "pdf_pages": "32",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PRC-0002-2",
+    "version": 1,
+    "unit_id": "PRC-0002",
+    "type": "single",
+    "prompt": "ケアの成果として評価すべきものはどれか。",
+    "options": [
+      "担当者の満足のみ",
+      "患者の健康やQOLの変化",
+      "在庫量だけ",
+      "説明した回数だけ"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "行為そのものだけでなく患者の健康・QOLなどの結果を評価する。",
+    "topic": "アウトカム",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "12-14-9-.pdf",
+        "pdf_pages": "32",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PRC-0002-3",
+    "version": 1,
+    "unit_id": "PRC-0002",
+    "type": "single",
+    "prompt": "薬剤師が説明を行った後の対応として適切なのはどれか。",
+    "options": [
+      "治療目標を設定しない",
+      "患者への結果を評価し次のケアへ反映する",
+      "実施したことで評価を終える",
+      "患者の理解を確認しない"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "結果を評価してフィードバックし、ケアを継続的に改善する。",
+    "topic": "評価と改善",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "12-14-9-.pdf",
+        "pdf_pages": "32",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PRC-0002-4",
+    "version": 1,
+    "unit_id": "PRC-0002",
+    "type": "single",
+    "prompt": "ケアの目標として最も適切なのはどれか。",
+    "options": [
+      "すべての患者へ同じ説明を機械的に行う",
+      "薬剤師の介入回数だけを増やす",
+      "患者の生活を考慮しない",
+      "明確な治療成果を目指す"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "明確な治療成果を目指して患者の利益と生活を踏まえた関与を行う。",
+    "topic": "治療目標",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "12-14-9-.pdf",
+        "pdf_pages": "32",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": []
+  },
+  {
+    "id": "Q-PRC-0002-5",
+    "version": 1,
+    "unit_id": "PRC-0002",
+    "type": "text",
+    "prompt": "「服薬指導を実施した」だけでケアの評価を終えない理由を説明してください。",
+    "options": [],
+    "answer": "指導という行為だけでは患者の健康・QOLや治療成果の改善が分からないため、結果を評価し次のケアへ反映する必要がある。",
+    "explanation": "指導という行為だけでは患者の健康・QOLや治療成果の改善が分からないため、結果を評価し次のケアへ反映する必要がある。",
+    "topic": "ケアの評価",
+    "coverage": "pilot",
+    "sources": [
+      {
+        "file": "12-14-9-.pdf",
+        "pdf_pages": "32",
+        "note": "改訂第14版青本。当該区画の本文文字層を既存抽出から照合。画像全照合・専門家校閲は未実施。"
+      }
+    ],
+    "validation": {
+      "status": "text_checked",
+      "reviewer": "作成時の本文文字層照合",
+      "checked_on": "2026-10-20"
+    },
+    "correction_history": [],
+    "rubric": [
+      "行為と成果の区別",
+      "結果評価とフィードバック"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "prefix": "PHY",
+    "file": "01-14-1-.pdf",
+    "pages": 478,
+    "sha256": "455b33d0d1ccf310f6c467b2279a17d5c413761d94edc11aeae1fbe1edd51d87",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "CHE",
+    "file": "02-14-2-.pdf",
+    "pages": 470,
+    "sha256": "690f7a13599c538c076622daad66a2db2363f86221e40de41689d0b719c4b3ce",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "BIO",
+    "file": "14-14-3-.pdf",
+    "pages": 658,
+    "sha256": "aafac4e4ebd810e4388aa41608014162bafe45b63fae3c0a59b3870ba0f0b2cd",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "HYG",
+    "file": "15-14-4-.pdf",
+    "pages": 590,
+    "sha256": "3202b31b51c0f988f64fe0ce6478ba2213567c95f40ac0bbe4c20a4618ae343b",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "PHA1",
+    "file": "13-14-5-.pdf",
+    "pages": 660,
+    "sha256": "aea81a1c4eb4c04533c14c756cc5d586fdc4d8da34fc017c9f881fec1031a4b8",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "PHA2",
+    "file": "17-14-6-.pdf",
+    "pages": 750,
+    "sha256": "f4077897ade4b2a374bca8a894bfce37bcc9f558e3f76501adbd069214b0798c",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "PHT",
+    "file": "08-14-7-.pdf",
+    "pages": 582,
+    "sha256": "512a8fac514357f4c38a109f6772506d02fcd012a1ea569dc549f7748b1dec87",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "LAW",
+    "file": "07-14-8-.pdf",
+    "pages": 466,
+    "sha256": "2df82553a5101002fb50525aab7b7c515d19e192fdcb4089bd1d37c6d368d35f",
+    "matches_p11": true,
+    "open_ok": true
+  },
+  {
+    "prefix": "PRC",
+    "file": "12-14-9-.pdf",
+    "pages": 566,
+    "sha256": "1434812633776f7520c5df95a6167e4da11c305a3715bae9d6356ae5050c7821",
+    "matches_p11": true,
+    "open_ok": true
+  }
+]

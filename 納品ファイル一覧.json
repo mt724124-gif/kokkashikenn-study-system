@@ -1,0 +1,182 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 50,
+    "sha256": "c57836420812cf42b59a96bd0c24d403a5979af761e3a904a37b4aeab65fc107",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "START_HERE.md",
+    "bytes": 1277,
+    "sha256": "761d71ab1fc65f17cf7355893aa91ef61f2ce29ed519e27c13adaf7a295c688f",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/app.js",
+    "bytes": 13443,
+    "sha256": "85ffea7c6cecfdaf3b98d743a567eedf8ccd69cf89cfcf33f63494e7e089a157",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/cli.py",
+    "bytes": 2451,
+    "sha256": "155a10ee9d3b1c853e01908d7b2244bfaa56639d96168a732043dad47a65251e",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/engine.py",
+    "bytes": 17786,
+    "sha256": "4038aa6b9dd3dec17164aef6f697fd178f88bb160ae9ec7e5dacd5d86df6cf5e",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/index.html",
+    "bytes": 4177,
+    "sha256": "7e4bf4a0d430b41b298584bc2d1450807b268ec94008360d7dec74f6b0e868b6",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/server.py",
+    "bytes": 4968,
+    "sha256": "a16c33a9b48ace90a1ae23c6272bd0a3190913a4849d104652279f798a0b6648",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "app/style.css",
+    "bytes": 3551,
+    "sha256": "42f726ae629442b9ec0c06ecfa2acb35a59cb36ce3b50c630e5c6751c3fe9aa2",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "scripts/build_master.py",
+    "bytes": 6400,
+    "sha256": "8c94d716116150c60948caf3ba5b02c4ae3b4475201a2591846954816cb9c78c",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "scripts/seed_questions.py",
+    "bytes": 15392,
+    "sha256": "13f2718845b948357d9fd1caebcfac2d7118e0273e29347ffb635a85d395a5a4",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "start.sh",
+    "bytes": 73,
+    "sha256": "ce7911b6f4fdaff4c6393a3c770ac15379258dbb05253ed5afa55cd47a9bc652",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "tests/test_system.py",
+    "bytes": 11424,
+    "sha256": "3c237814a765897b66cc358bdbff16fc7249f7f26286cea422c504a513c50d87",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "問題データ/questions.json",
+    "bytes": 45050,
+    "sha256": "48fa4e5c301d1fba98727ad1fb147618c25854446685851a9402d4afc3f437aa",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習ダッシュボード/進捗.md",
+    "bytes": 942,
+    "sha256": "89f0965686ee95cba2568adeeec461e18d1637a7a11771d9f55cee0c711485b7",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習マスター/ID移行台帳.json",
+    "bytes": 9081,
+    "sha256": "304e38d6acbb38a4d48f2b852323fbedbcc1745934504ba5f30ab221130908d8",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習マスター/master.json",
+    "bytes": 1562930,
+    "sha256": "d862aeaa7348d93cf785d6f45d8f360f51237bd64143a777b130a717b3ed840c",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習マスター/プレビュー照合結果.json",
+    "bytes": 196,
+    "sha256": "11f2d498137ca9c35b500ec64773ca05fe40037c3e7719c3372e58b4092918f1",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習マスター/整合性検証.json",
+    "bytes": 425,
+    "sha256": "b02a9f330e6043f6ebf789c2d76233da7182b6cf617772f7cd2d8c29a76b1d7f",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "学習マスター/青本_学習マスター_v1.2.md",
+    "bytes": 258263,
+    "sha256": "2fb1dccd0515aad0f4b720e1f36ccff1c9cd4b2881315fd6fb0cf6abd60e3795",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "復習管理/復習予定.json",
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "復習管理/復習予定.md",
+    "bytes": 149,
+    "sha256": "b283c96ef15ec8a2d2d7cd5b14af7e1e1038f4d886756390599f81bd19ac8d53",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "演習ログ/記録/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "資料/Phase1.2_全区画粒度評価.csv",
+    "bytes": 1519496,
+    "sha256": "3b1988ee57ee50bc9f4539c008a6168ec9da5284e09bc5badf9f74616e00c094",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "資料/入力PDF確認.json",
+    "bytes": 1831,
+    "sha256": "230d6d738dcc9024be50bc668c88e429047278e9c0f928b703c2d74c72455ada",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "資料/調整案.json",
+    "bytes": 33780,
+    "sha256": "fa67da0889bb079db0f47eac6a97a7abf63e1f067fb8e50bc6a483c2bfa4346e",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "資料/青本_学習マスター_v1.1.md",
+    "bytes": 505805,
+    "sha256": "1163eba118b022ded9d170264f86b65ff4be67f97a4458e1b0329060c1f2502f",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "起動.bat",
+    "bytes": 130,
+    "sha256": "28f75ba0ccf56d02db576c5ee93ce69a717393bf5fa54eba9acf7c7d7302d8bf",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "運用マニュアル/Phase2_実装検証報告.md",
+    "bytes": 7827,
+    "sha256": "1148cfe987dce43dc50630d255c1d1529c57c75a985536f249ce5051e7022d5e",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "運用マニュアル/使い方.md",
+    "bytes": 8273,
+    "sha256": "d50a2b00a96800ef1f6c16e7e626e94df46ee7e3e5cd642e61f68954c9c46e4f",
+    "github_action": "new_file_candidate"
+  },
+  {
+    "path": "運用マニュアル/自動テスト結果.txt",
+    "bytes": 1947,
+    "sha256": "2d38a63b475d23ad16be57af8124b0c0beee022a4b018907695008971342e51b",
+    "github_action": "new_file_candidate"
+  }
+]
